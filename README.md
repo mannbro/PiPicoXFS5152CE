@@ -1,6 +1,6 @@
 # PiPicoXFS5152CE
 ## Description
-XFS5152CE Is a highly integrated speech synthesis chip hat enables Chinese and English speech synthesis. It integrates voice encoding and decoding functions, enabling users to record and play back. In addition, it also integrates innovative lightweight voice recognition, support 30 Command word recognition, and supports the user's command word custom needs.
+XFS5152CE Is a highly integrated speech synthesis chip that enables Chinese and English speech synthesis. It integrates voice encoding and decoding functions, enabling users to record and play back. In addition, it also integrates innovative lightweight voice recognition, support word recognition, and text-to-speech.
 
 This is a Micropython library for implementing text-to-speech with the XFS5152CE chip using I2C. It has been tested on Raspberry Pi Pico.
 
