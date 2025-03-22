@@ -22,6 +22,8 @@ It also has helper methods to control the output, such as setting language, voic
 * Pin 11 -> SCL on Pico (i.e. GPIO5)
 * Pin 12 -> SDA on Pico (i.e. GPIO4)
 
+See Pinout below for the pin layout on the board.
+
 ## How to use:
 Copy the library (XFS5152CE_I2C.py) to the Pi Pico.
 
@@ -39,7 +41,10 @@ xfs.speak("Hello!")
 
 See XFS5152CE_example.py for more info on how to set the voice, speed, volume and other settings.
 
-## Pinout
+## More information
+I have included the XFS5152CE datasheet and the development board pinout as PDF documents in the Documentatiton folder if you want to read more about the chip and it's capabilities.
+
+## Dev Board Pinout
 
 ![XFS5152CE Module Pinoutt](Documentation/XFS5152CE_Module_Pinout.png)
  
