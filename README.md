@@ -45,6 +45,5 @@ See XFS5152CE_example.py for more info on how to set the voice, speed, volume an
 I have included the XFS5152CE datasheet and the development board pinout as PDF documents in the Documentatiton folder if you want to read more about the chip and it's capabilities.
 
 ## Dev Board Pinout
-
-![XFS5152CE Module Pinoutt](Documentation/XFS5152CE_Module_Pinout.png)
+<img src="Documentation/XFS5152CE_Module_Pinout.png" alt="XFS5152CE Development Board Pinout" height="700"/>
  
