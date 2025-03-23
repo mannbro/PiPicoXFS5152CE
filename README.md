@@ -19,8 +19,10 @@ It also has helper methods to control the output, such as setting language, voic
 * Pin 2 -> 3V3
 * Pin 4 -> Speaker +
 * Pin 6 -> Speaker -
+* Pin 7 -> GPIO18 on Pico (Busy)
 * Pin 11 -> SCL on Pico (i.e. GPIO5)
 * Pin 12 -> SDA on Pico (i.e. GPIO4)
+* 
 
 See Pinout below for the pin layout on the board.
 
